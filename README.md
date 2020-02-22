@@ -15,10 +15,9 @@ This application is built to run on a local host or on Heroku. To run local, clo
 <a href ="https://warm-journey-87932.herokuapp.com/" target="_blank">Click Here to View</a>
 
 ## ScreenShots
-<img src="/public/images/screenshot1.png" alt="screenshot1">
+<img src="public/images /screenshot1.png" alt =screenshot1>
 <br>
-<img src="/public/images/screenshot2.png" alt="screenshot2">
-
+<img src="public/images /screenshot1.png" alt="screenshot2">
 
 
 
