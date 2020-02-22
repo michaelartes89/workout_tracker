@@ -17,7 +17,7 @@ This application is built to run on a local host or on Heroku. To run local, clo
 ## ScreenShots
 <img src="public/images /screenshot1.png" alt =screenshot1>
 <br>
-<img src="public/images /screenshot1.png" alt="screenshot2">
+<img src="public/images /screenshot2.png" alt="screenshot2">
 
 
 
